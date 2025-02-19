@@ -1,16 +1,19 @@
 final List<Map<String, String>> shayariList = [
   {
     "category": "Love",
-    "text":
-        "तेरी हर अदा पर दिल हार बैठा हूँ,\nअब तुझे पाने की ख्वाहिश नहीं,\nबस तेरी यादों में जीने का इरादा रखता हूँ।",
-    "background": "assets/bg_placeholder.jpg",
-    "audio": "assets/audio/Background_audio.mp3"
+    "text": "Mohabbat bhi ajeeb cheez hai, Dil ko tod bhi deti hai aur jodne bhi aati hai.",
+    "color": "#FF4A4A"
   },
   {
-    "category": "Friendship",
-    "text":
-        "दोस्ती नाम है सुख-दुख की कहानी का,\nदोस्ती राज़ है सदा मुस्कुराने का।",
-    "background": "assets/bg_placeholder.jpg",
-    "audio": "assets/audio/Background_audio.mp3"
+    "category": "Sad",
+    "text": "Zindagi ne diye jo gham, unhe sajana seekh liya...",
+    "color": "#3A3A3A",
+    "audioUrl": "assets/audio/Background_audio.mp"
+  },
+  {
+    "category": "Motivation",
+    "text": "Safalta ki chabi hai, kabhi haar na maanna!",
+    "color": "#4CAF50",
+    "audioUrl": "assets/audio/Background_audio.mp3"
   }
 ];
